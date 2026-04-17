@@ -29,8 +29,8 @@ A modern HDF5 signal viewer for Linux, built with Python, Tkinter, and Matplotli
 ## Installation
 
 ```bash
-git clone <your-repo-url>
-cd HarryPlotter
+git clone https://github.com/rowoputi-v/HarryPlotterClone_Linux.git
+cd HarryPlotterClone_Linux
 
 python -m venv .venv
 source .venv/bin/activate
