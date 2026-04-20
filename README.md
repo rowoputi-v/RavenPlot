@@ -10,7 +10,7 @@ A modern HDF5 signal viewer — web-based, powered by Flask and Plotly.
 - **Plot types** — line, bar, scatter, step
 - **Drag & drop** file loading
 - **Clear file / Clear plots** controls
-- Clean, Apple/Scandinavian-inspired dark UI
+
 
 ## Requirements
 
